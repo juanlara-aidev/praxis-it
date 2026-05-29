@@ -55,7 +55,7 @@ Aggiornare è **eseguire lo stesso comando un'altra volta**. Oppure premi il pul
 
 ## La membership di SinergIA
 
-Praxis è per la community di **SinergIA**. Quando apri l'estensione, ti chiede la tua email — la stessa con cui sei entrato in SinergIA — e verifica che la tua membership sia attiva.
+Praxis è per la community di **VibeCoders**. Quando apri l'estensione, ti chiede la tua email — la stessa con cui sei entrato in SinergIA — e verifica che la tua membership sia attiva.
 
 Se ancora non fai parte della community, entra qui 👉 [skool.com/sinergia](https://www.skool.com/sinergia).
 
@@ -72,4 +72,4 @@ Un paio di cose che risolvono il 90% dei casi:
 
 ---
 
-Fatto da **Juan Lara** · Per la community **SinergIA**
+Fatto da **Juan Lara** · Per la community **VibeCoders**

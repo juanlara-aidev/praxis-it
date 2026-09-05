@@ -22,7 +22,7 @@ Tu dici **cosa** vuoi costruire. L'agente decide **come**.
 
 ## Usi Codex, GLM o DeepSeek?
 
-Praxis mantiene lo stesso contratto del progetto quando li avvii da Launchpad: istruzioni portabili, Skills e MCP autorizzati in `.mcp.json`. Claude Code li legge nativamente; Codex e OpenCode ricevono un overlay valido solo per quel processo. Non vengono modificati i file globali dei tuoi agenti e Doctor segnala una connessione incompatibile senza mostrare segreti.
+Praxis mantiene lo stesso contratto del progetto quando li avvii da Launchpad: istruzioni portabili, Skills e MCP autorizzati in `.mcp.json`. GLM e DeepSeek aprono il **pannello visuale di Claude Code** già configurato per quel modello (la tua chiave resta cifrata nell'editor, mai nel tuo progetto); Codex apre il suo terminale con le stesse connessioni. Non vengono modificati i file globali dei tuoi agenti e Doctor segnala una connessione incompatibile senza mostrare segreti.
 
 ---
 
